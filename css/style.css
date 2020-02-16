@@ -1,0 +1,22 @@
+@import url("href="https://fonts.googleapis.com/css?family=Lemonada|Slabo+27px&display=swap"");
+
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/links.css");
+@import url("components/card.css");
+
+body{
+  font-family: 'Slabo 27px', serif;
+  font-size: 22px;
+  margin: 0px;
+}
+
+h1{
+  font-family: 'Lemonada', cursive;
+  font-weight: bold;
+}
+
+p{
+  font-size: 30px;
+  margin-top: 40px;
+}
